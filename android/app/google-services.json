@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675230502476",
+    "project_id": "artin-s-web",
+    "storage_bucket": "artin-s-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675230502476:android:bf573c116e70ab76a1aee9",
+        "android_client_info": {
+          "package_name": "com.example.artinweb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBds9ZgjUJNGhNF000lLp5c9NSReEJsyQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
